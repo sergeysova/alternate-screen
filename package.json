@@ -1,0 +1,33 @@
+{
+  "name": "alternate-screen",
+  "version": "0.1.0",
+  "description": "Show alternate terminal screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LestaD/alternate-screen.git"
+  },
+  "keywords": [
+    "terminal",
+    "unix",
+    "screen",
+    "alternate",
+    "tput",
+    "io",
+    "xterm",
+    "term",
+    "command"
+  ],
+  "author": "Sergey Sova <i.am@lestad.net> (https://lestad.top)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LestaD/alternate-screen/issues"
+  },
+  "homepage": "https://github.com/LestaD/alternate-screen#readme",
+  "dependencies": {
+    "node-echo": "^0.1.1"
+  }
+}
