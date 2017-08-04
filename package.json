@@ -1,6 +1,6 @@
 {
   "name": "alternate-screen",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Show alternate terminal screen",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,5 @@
     "url": "https://github.com/LestaD/alternate-screen/issues"
   },
   "homepage": "https://github.com/LestaD/alternate-screen#readme",
-  "dependencies": {
-    "node-echo": "^0.1.1"
-  }
+  "dependencies": {}
 }
